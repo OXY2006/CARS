@@ -67,6 +67,10 @@ body{
     gap: 64px;
 }
 
+#section-1-para {
+    color: #f9faf8;
+}
+
 #section-1-body, #section-1-image {
     flex: 1;
 }
